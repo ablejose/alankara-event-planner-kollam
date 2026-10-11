@@ -1,0 +1,59 @@
+{
+  "slug": "alankara-event-planner-kollam",
+  "name": "ALANKARA Event Planner",
+  "shortName": "ALANKARA",
+  "descriptor": "Event Management",
+  "address": "Decent junction, Decent Jun, Ayathil, Kollam, Keralam 691577",
+  "area": "Ayathil",
+  "city": "Kollam",
+  "district": "Kollam",
+  "region": "Kerala",
+  "postalCode": "691577",
+  "geo": {
+    "lat": 8.8974511,
+    "lng": 76.6476503
+  },
+  "mapsLink": "https://maps.google.com/?cid=17277447077301722771",
+  "phone": "+91 91423 74630",
+  "whatsapp": "919142374630",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 5,
+  "reviewCount": 249,
+  "reviews": [
+    {
+      "name": "RUDHIKRISHNA R",
+      "rating": 5,
+      "quote": "The decoration and services were excelent. Really liked there work. The gave us tgeboutpit exactly the same how we gave them the idea. Beautiful. Thank you."
+    },
+    {
+      "name": "Lekshmi Sajeev",
+      "rating": 5,
+      "quote": "ALANKARA performed exceptionally well. They fulfilled my requests precisely as I had envisioned. Their team successfully brought my dream mandapam to fruition. The quality of their work certainly justified the cost."
+    },
+    {
+      "name": "Bibin Babu b s",
+      "rating": 5,
+      "quote": "I contacted them for my sister's wedding, and I am 100% satisfied with their service. They are an excellent event management team. We didn't have to worry about anything or keep explaining things—they took care of every detail professionally and efficiently. Their pricing is also very reasonable and affordable for ordinary people."
+    },
+    {
+      "name": "Anoop Krishna",
+      "rating": 5,
+      "quote": "They are an excellent event management team. Their pricing is also very reasonable and affordable for ordinary people.We didn't have to worry about anything or keep explaining things they took care of every detail professionally and efficiently. Highly recommended"
+    },
+    {
+      "name": "Amrutha Thulasi",
+      "rating": 5,
+      "quote": "We loved the birthday stage decoration! The design was exactly what we asked for, with neat finishing, very good service, and affordable pricing. Thank you for making the celebration special. Highly recommend to everyone!"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://alankara-event-planner-kollam.vercel.app"
+}
